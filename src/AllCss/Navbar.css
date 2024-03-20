@@ -1,0 +1,19 @@
+.input-box
+{
+    padding: 6px 40px;
+    width:480px;
+    border: 1px solid rgba(170, 169, 169, 0.571);
+    border-radius: 8px;
+}
+
+.icon-1
+{
+    font-size: 22px;
+    position: relative;
+    left: 30px;
+}
+.nav-icons
+{
+    font-size: 22px;
+    margin: 10px;
+}
